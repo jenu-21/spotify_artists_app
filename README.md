@@ -8,8 +8,8 @@ Features covered:
 Choosing the artist
 Outputting their top 10 songs according to spotify's, given certain audio features
 
-![Screenshot](C:\Users\JenushanJayarooban\OneDrive - Harnham Search and Selection Ltd\Pictures\Screenshots\spotify_app_body)
+![Screenshot](https://github.com/jenu-21/spotify_artists_app/blob/main/spotify_app_body.png)
 
-![Screenshot](C:\Users\JenushanJayarooban\OneDrive - Harnham Search and Selection Ltd\Pictures\Screenshots\spotify_app_function)
+![Screenshot](https://github.com/jenu-21/spotify_artists_app/blob/main/spotify_app_functiom.png)
 
-![Screenshot](C:\Users\JenushanJayarooban\OneDrive - Harnham Search and Selection Ltd\Pictures\Screenshots\spotify_app_extra_function)
+![Screenshot](https://github.com/jenu-21/spotify_artists_app/blob/main/spotify_app_extra_function.png)
