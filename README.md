@@ -10,6 +10,6 @@ Outputting their top 10 songs according to spotify's, given certain audio featur
 
 ![Screenshot](https://github.com/jenu-21/spotify_artists_app/blob/main/spotify_app_body.png)
 
-![Screenshot](https://github.com/jenu-21/spotify_artists_app/blob/main/spotify_app_functiom.png)
+![Screenshot](https://github.com/jenu-21/spotify_artists_app/blob/main/spotify_app_function.png)
 
 ![Screenshot](https://github.com/jenu-21/spotify_artists_app/blob/main/spotify_app_extra_function.png)
